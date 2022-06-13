@@ -21,4 +21,4 @@ Hi, I'm Raghu Symo ![image](https://user-images.githubusercontent.com/107374164/
 
 ❤️ If you enjoy what I do, you can become a sponsor and fund me
 
-Follow    https://www.quora.com/profile/Raghu-Symo
+Follow    ![image](https://user-images.githubusercontent.com/107374164/173260150-1dcb1490-4005-44bd-ad09-dadf3882dfac.png)
