@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **raghusymo/raghusymo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 Hi, I'm Raghu Symo ![image](https://user-images.githubusercontent.com/107374164/173260150-1dcb1490-4005-44bd-ad09-dadf3882dfac.png)
 
 
